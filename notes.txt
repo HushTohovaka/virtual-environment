@@ -1,0 +1,12 @@
+Creating a virtiual environment 
+ - To ensure that the dependencies are specific to the environment
+ - Every python environment has both a Python version and a Third Party Library
+ 
+
+ Isolating an environment so it doesnt affect the global system. 
+ - This is to ensure that the environment is created so it doesn't affect other projects.
+ - https://www.youtube.com/watch?v=UPaN3Z49myw 
+ 
+
+Adding a virtual environment to keep the versoin of python inside the project, so it is not globally.
+- Make sure that you add python to the path so it knows that it is ok.
